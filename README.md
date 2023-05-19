@@ -1,5 +1,5 @@
-# undersell...Various school and personal projects for data science.  
+This project uses statistical analysis and visualization to leverage customers' health information like smoking habits, BMI, age, gender, etc., and checks statistical evidence to make valuable decisions of insurance businesses like charges for health insurance.
 
 Skills and Tools
 
-Exploratory Data Analysis (Variable Identification, Univariate analysis, Bi-Variate analysis), Python, Hypothesis Testing, Data Visualization, Statistical Inference, a/b testing
+Hypothesis Testing, Data Visualization, Statistical Inference
